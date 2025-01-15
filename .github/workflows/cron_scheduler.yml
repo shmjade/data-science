@@ -20,4 +20,4 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: Run python script
-        run: python3 update_number.py
+        run: python3 ../../update_number.py
